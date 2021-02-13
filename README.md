@@ -1,4 +1,4 @@
-<h1>Wellington Trojan - Father, Gamer and Web developer from Curitiba, Brazil</h1>
+<h1>Wellington Trojan - Father, Gamer and Web developer</h1>
 
 <p>More than 5 years developing responsive websites with Wordpress and associate tools, like Woocommerce and Sensei LMS.<br>Vast knowledge in development focused on PHP and Wordpress, with daily experiences of producing websites from zero to responsive, using good SEO and UX practices.<br>Experience with code versioning using Git and GitFlow, as well as good code semantics for better understanding of legacy.<br>A person who likes new things and positive work experiences, facility to work in groups, used with agile methodologies like SCRUM.</p>
 
