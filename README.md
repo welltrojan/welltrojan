@@ -18,6 +18,6 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 <h3 align="left">Contact :telephone:</h3>
-<p>Contact me via <a href="https://www.linkedin.com/in/welltrojan/" target="_BLANK">Linkedin</a> or <a href="mailto:wellingtontrojan@gmail.com" target="_BLANK">email</a></p> 
+<p>Contact me via <a href="https://www.linkedin.com/in/welltrojan/" target="_BLANK">Linkedin</a> or <a href="mailto:wellingtontrojan@gmail.com" target="_BLANK">wellingtontrojan@gmail.com</a></p> 
 
 <em>Code is poetry.</em>
